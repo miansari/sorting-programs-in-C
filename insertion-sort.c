@@ -5,7 +5,7 @@ int main(){
 	int n = 10;
 	int a1[]  = {2,3,6,4,76,11,9,4,33,87};
 	insertion_sort(a1,n);
-	display(a3,n);
+	display(a1,n);
 	return 0;
 }
 
